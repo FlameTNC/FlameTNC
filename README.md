@@ -1,19 +1,14 @@
 
 <a href="https://github.com/iTNCTech-Git" target="_blank">
-<img height="420" width="980"align="center" src="https://banners.beyondco.de/iTNCTech-Git%20%7C%20JS.png?theme=dark&packageManager=npm+install&packageName=sort-package-json%2FSocial+images+for+Open+Source+Packages&pattern=autumn&style=style_1&description=Github%2FSocial+Image&md=1&showWatermark=0&fontSize=125px&images=terminal"/>
-  <p><p></p></p>
-<p></p><img height="403" align="center" src="https://gh-readme-profile.vercel.app/api?username=iTNCTech-Git&theme=transparent&hide=repos,stars,forks,commits,prs,prs_merged,issues,contributed&show=reviews,issues_closed,discussions_started,discussions_answered&border_width=0.1&border_radius=0.5&hide_stroke=true&hide_border=true&bg_color=222222&title_color=00a1e7&text_color=18c134&icon_color=22b14b&border_color=ffffff&username_color=ffffff"/> 
-<p><p>
-
-  
- 
-</a>
+<img height="410" width="980"align="center" src="https://banners.beyondco.de/iTNCTech-Git%20%7C%20JS.png?theme=dark&packageManager=npm+install&packageName=sort-package-json%2FSocial+images+for+Open+Source+Packages&pattern=autumn&style=style_1&description=Github%2FSocial+Image&md=1&showWatermark=0&fontSize=125px&images=terminal"/>
+  <p> </p>
+  </a>
 <h1>Hi 👋, I'm Fl@me iTNC</h1>
 
 <p>Senior Engineering</p>
 
 <h2>🛠 Skills</h2>
-<p>
+<p> <p> <p> </p>
 
 <a target="_blank" href="https://getbootstrap.com" target="_blank" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" />
@@ -108,4 +103,7 @@
 
 
 </a>
+<p></p><img height="403" align="center" src="https://gh-readme-profile.vercel.app/api?username=iTNCTech-Git&theme=transparent&hide=repos,stars,forks,commits,prs,prs_merged,issues,contributed&show=reviews,issues_closed,discussions_started,discussions_answered&border_width=0.1&border_radius=0.5&hide_stroke=true&hide_border=true&bg_color=222222&title_color=00a1e7&text_color=18c134&icon_color=22b14b&border_color=ffffff&username_color=ffffff"/> 
+<p><p>
+</p></a>
 
